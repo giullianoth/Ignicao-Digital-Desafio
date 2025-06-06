@@ -4,8 +4,6 @@ Este projeto faz parte de um desafio proposto para o processo seletivo da agênc
 
 A estrutura da página foi montada utilizando o Elementor, e para que fosse possível sua visualização, foi necessário gerar arquivos estáticos por meio do plugin [Simply Static](https://simplystatic.com/), para disponibilizá-los em repositório do GitHub e realizar o deploy.
 
-Está disponível um arquivo de backup para ser importado no CMS, em ```attachment/backup.zip```. Basta instalar a extensão [All-In-One WP Migration](https://servmask.com/), descompactar o arquivo e fazer a sua importação.
-
 ## Telas
 
 ![Layout para desktop](/screenshots/screenshot-1440px.png)
